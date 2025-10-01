@@ -1,4 +1,4 @@
-// Write a program to swap two numbers using third variable.
+// Write a program to swap two variable using third variable.
 
 class Example2
 {
@@ -15,4 +15,5 @@ class Example2
 			System.out.println("The value of b after  = "+b);			
 			
 		}	
+
 }
