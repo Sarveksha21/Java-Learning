@@ -18,6 +18,7 @@ class Example21
 	{
 		System.out.println("Start");
 		new Child();
-		System.out.println("Start");
+		System.out.println("Stop");
 	}
+
 }
