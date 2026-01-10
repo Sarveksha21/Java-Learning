@@ -1,0 +1,12 @@
+class Ex1
+{
+	public static void main(String[] args)
+	{
+		//1st Approach
+		String str1 = "Cyber";
+		System.out.println(str1);
+		//2nd Approach
+		String str2 = new String("Success");
+		System.out.println(str2);
+	}
+}
